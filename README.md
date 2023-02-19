@@ -1,0 +1,2 @@
+# vimfirststeps
+trying vim
